@@ -1,0 +1,80 @@
+
+EXERCÍCIO 1
+
+void main()
+{
+  
+  String nome = "Ana";
+  String sobrenome = "Silva";
+  String endereco = "Centro - Canoas";
+  
+  print 
+	("Nome:$nome\n"
+       	 "Sobrenome: $sobrenome\n"
+        	"Endereço: $endereco\n");
+ 
+}
+  
+EXERCÍCIO 2 
+
+
+void main()
+{
+  
+  double valor = 4*8.50;
+
+ print(valor);
+}
+  
+EXERCÍCIO 3 
+
+
+void main()
+{
+  
+ double maior = 12;
+ double menor = 2;
+ double altura = 3;
+ double area = (maior+menor)*altura/2; 
+
+
+print(area);
+
+}
+  
+ EXERCICIO 4 
+
+void main() {
+    
+double base = 6;
+    double area = base*base;
+  
+    print(area);
+  
+  }
+
+EXERCICIO 5
+
+void main() {
+  
+  //Declaração da variável String
+  String nome = "Ana";
+  
+  //if quer dizer SE
+  
+  if(nome == "Ana") {
+    print("Este nome é correto, pode acessar o sistema");
+      }else{
+    print("Acesso negado, você não é Ana");
+  }  
+}
+
+
+ 
+
+
+  
+
+
+  
+
